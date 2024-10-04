@@ -5,7 +5,7 @@ metadata:
     app: result
   name: result
 spec:
-  replicas: 10
+  replicas: 10000
   selector:
     matchLabels:
       app: result
